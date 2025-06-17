@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.block{
+	max-width:600px;
+	margin:10px;
+	padding:10px;
+	border-left: solid green 8px;
+	background-color: #f8fffe;
+	font-weight: bold;
+}
